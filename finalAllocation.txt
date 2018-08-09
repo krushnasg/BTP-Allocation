@@ -1,0 +1,52 @@
+DR: 01  -- Allocated -- 	: PM1
+DR: 02  -- Allocated -- 	: DM2
+DR: 03  -- Allocated -- 	: AM2
+DR: 04  -- Allocated -- 	: PG3
+DR: 05  -- Allocated -- 	: AD1
+DR: 06  -- Allocated -- 	: PG1
+DR: 07  -- Allocated -- 	: AD2
+DR: 08  -- Allocated -- 	: AD2
+DR: 09  -- Allocated -- 	: PPD2
+DR: 10  -- Allocated -- 	: PG4
+DR: 11  -- Allocated -- 	: AM3
+DR: 12  -- Allocated -- 	: NG1
+DR: 13  -- Allocated -- 	: NG4
+DR: 14  -- Allocated -- 	: AD1
+DR: 15  -- Allocated -- 	: SS1
+DR: 16  -- Allocated -- 	: PG2
+DR: 17  -- Allocated -- 	: RgM1
+DR: 18  -- Allocated -- 	: AG1
+DR: 19  -- Allocated -- 	: JM1
+DR: 20  -- Allocated -- 	: NG2
+DR: 21  -- Allocated -- 	: PPD3
+DR: 22  -- Allocated -- 	: SB2
+DR: 23  -- Allocated -- 	: RgM3
+DR: 24  -- Allocated -- 	: NG5
+DR: 25  -- Allocated -- 	: DM1
+DR: 26  -- Allocated -- 	: NG6
+DR: 27  -- Allocated -- 	: SB1
+DR: 28  -- Allocated -- 	: SSL3
+DR: 29  -- Allocated -- 	: AG3
+DR: 30  -- Allocated -- 	: SS4
+DR: 31  -- Allocated -- 	: PB2
+DR: 32  -- Allocated -- 	: AM5
+DR: 33  -- Allocated -- 	: DRC1
+DR: 34  -- Allocated -- 	: SS2
+DR: 35  -- Allocated -- 	: RgM3
+DR: 36  -- Allocated -- 	: DRC4
+DR: 37  -- Allocated -- 	: DRC2
+DR: 38  ** NOT filled.
+DR: 39  -- Allocated -- 	: SB4
+DR: 40  -- Allocated -- 	: BM3
+DR: 41  ** NOT filled.
+DR: 42  ** NOT filled.
+DR: 43  ** NOT filled.
+DR: 44  ** NOT filled.
+DR: 45  ** NOT filled.
+DR: 46  -- Allocated -- 	: BM5
+DR: 47  ** NOT filled.
+DR: 48  ** NOT filled.
+DR: 49  ** NOT filled.
+DR: 50  ** NOT filled.
+DR: 51  -- Allocated -- 	: PPD4
+DR: 52  ** NOT filled.
